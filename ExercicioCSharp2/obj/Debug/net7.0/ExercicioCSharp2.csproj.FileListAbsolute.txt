@@ -1,0 +1,15 @@
+C:\Users\kauan\Documents\ExercicioCSharp2\bin\Debug\net7.0\ExercicioCSharp2.exe
+C:\Users\kauan\Documents\ExercicioCSharp2\bin\Debug\net7.0\ExercicioCSharp2.deps.json
+C:\Users\kauan\Documents\ExercicioCSharp2\bin\Debug\net7.0\ExercicioCSharp2.runtimeconfig.json
+C:\Users\kauan\Documents\ExercicioCSharp2\bin\Debug\net7.0\ExercicioCSharp2.dll
+C:\Users\kauan\Documents\ExercicioCSharp2\bin\Debug\net7.0\ExercicioCSharp2.pdb
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.csproj.AssemblyReference.cache
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.AssemblyInfoInputs.cache
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.AssemblyInfo.cs
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.dll
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\refint\ExercicioCSharp2.dll
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.pdb
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ExercicioCSharp2.genruntimeconfig.cache
+C:\Users\kauan\Documents\ExercicioCSharp2\obj\Debug\net7.0\ref\ExercicioCSharp2.dll
