@@ -1,0 +1,15 @@
+C:\Users\kauan\Documents\ExercicioCSharp3\bin\Debug\net7.0\ExercicioCSharp3.exe
+C:\Users\kauan\Documents\ExercicioCSharp3\bin\Debug\net7.0\ExercicioCSharp3.deps.json
+C:\Users\kauan\Documents\ExercicioCSharp3\bin\Debug\net7.0\ExercicioCSharp3.runtimeconfig.json
+C:\Users\kauan\Documents\ExercicioCSharp3\bin\Debug\net7.0\ExercicioCSharp3.dll
+C:\Users\kauan\Documents\ExercicioCSharp3\bin\Debug\net7.0\ExercicioCSharp3.pdb
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.csproj.AssemblyReference.cache
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.AssemblyInfoInputs.cache
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.AssemblyInfo.cs
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.dll
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\refint\ExercicioCSharp3.dll
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.pdb
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ExercicioCSharp3.genruntimeconfig.cache
+C:\Users\kauan\Documents\ExercicioCSharp3\obj\Debug\net7.0\ref\ExercicioCSharp3.dll
